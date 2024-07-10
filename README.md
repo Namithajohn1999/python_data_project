@@ -63,6 +63,8 @@ In this section, I conducted an Exploratory Data Analysis (EDA) specifically foc
 View my notebook with detailed steps here: [1_EDA](1_EDA.IPYNB)
 
 ### RESULTS
- ![Data analyst job in different job loactions in US]  (2_PYTHON_PROJECT\images\Number of data analyst roles per location.png)
- 
+
+ ![Data analyst job in different job loactions in US] (2_PYTHON_PROJECT/images/data_analyst_roles_per_location.png)
+
+
 
